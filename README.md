@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 &nbsp;&nbsp;
-(./img/linkedin-light.svg)](https://www.linkedin.com/in/gustavo-bernardo-3605a7123#gh-light-mode-only)
-(./img/linkedin-dark.svg)](https://www.linkedin.com/in/gustavo-bernardo-3605a7123#gh-dark-mode-only)
+[<img src="https://www.cnm.edu/depts/mco/marketing/images/linkedin-logo.png/linkedin-logo.png" height="40em" align="center" alt="Follow Gustavo on LinkedIn" title="Follow Gustavo on LinkedIn"/>](https://www.linkedin.com/in/gustavo-bernardo-3605a7123)
 &nbsp;&nbsp;
 
 
