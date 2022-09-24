@@ -23,7 +23,7 @@ We are extremely fortunate to live in such lovely times, when learning is access
 
 <!-- ## I'm Gustavo, and I'm glad to have you here!! -->
 
-### Connect with me:
+## Connect with me:
 
 &nbsp;&nbsp;
 [<img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" height="40em" align="center" alt="Follow Gustavo on LinkedIn" title="Follow Gustavo on LinkedIn"/>](https://www.linkedin.com/in/gustavo-bernardo-3605a7123)
@@ -32,7 +32,7 @@ We are extremely fortunate to live in such lovely times, when learning is access
 [<img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" height="40em" align="center" alt="Follow Gustavo on Twitter" title="Follow Gustavo on Twitter"/>](https://twitter.com/GuusHenriq)
 &nbsp;&nbsp;
 
-### Languages and Tools:
+## Languages and Tools:
 
 #### Front-End:
 
@@ -43,12 +43,14 @@ We are extremely fortunate to live in such lovely times, when learning is access
 <img align="left" alt="React" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <br>
+<br>
 
 #### Back-End:
 
 <img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Spring" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg" style="padding-right:10px;" />
 
+<br>
 <br>
 
 #### Others:
