@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 -->
 
 ## Hi there 👋
+# Currently, I'm learning spring-boot (back-end) and trying to expand my knowledge from front-end; it's sometimes great and important to step outside of our comfort zone.  I'm a really enthusiastic individual that is interested in how technology will advance and alter our way of life even more.
+
+# We are extremely fortunate to live in such lovely times, when learning is accessible anywhere. We can surpass expectations if we have good habits and are consistent.
 
 <!-- ## I'm Gustavo, and I'm glad to have you here!! -->
 
