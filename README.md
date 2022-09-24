@@ -14,17 +14,23 @@ Here are some ideas to get you started:
 -->
 
 ## Hi there 👋
-# Currently, I'm learning spring-boot (back-end) and trying to expand my knowledge from front-end; it's sometimes great and important to step outside of our comfort zone.  I'm a really enthusiastic individual that is interested in how technology will advance and alter our way of life even more.
 
-# We are extremely fortunate to live in such lovely times, when learning is accessible anywhere. We can surpass expectations if we have good habits and are consistent.
+Currently, I'm learning spring-boot (back-end) and trying to expand my knowledge from front-end; it's sometimes great and important to step outside our comfort zone. I'm a really enthusiastic individual that is interested in how technology will advance and alter our way of life even more.
+
+We are extremely fortunate to live in such lovely times, when learning is accessible anywhere. We can surpass expectations if we have good habits and are consistent.
+
+⚡ Bookworm, calisthenic, Chess.
 
 <!-- ## I'm Gustavo, and I'm glad to have you here!! -->
 
 ### Connect with me:
+
 &nbsp;&nbsp;
 [<img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" height="40em" align="center" alt="Follow Gustavo on LinkedIn" title="Follow Gustavo on LinkedIn"/>](https://www.linkedin.com/in/gustavo-bernardo-3605a7123)
 &nbsp;&nbsp;
-
+&nbsp;&nbsp;
+[<img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" height="40em" align="center" alt="Follow Gustavo on Twitter" title="Follow Gustavo on Twitter"/>](https://twitter.com/GuusHenriq)
+&nbsp;&nbsp;
 
 ### Languages and Tools:
 
