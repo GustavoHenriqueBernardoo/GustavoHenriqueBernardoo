@@ -34,7 +34,7 @@ We are extremely fortunate to live in such lovely times, when learning is access
 
 ### Languages and Tools:
 
-### Front-End:
+#### Front-End:
 
 <img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -42,12 +42,16 @@ We are extremely fortunate to live in such lovely times, when learning is access
 <img align="left" alt="Bootstrap" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
 <img align="left" alt="React" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-### Back-End:
+<br>
+
+#### Back-End:
 
 <img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Spring" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg" style="padding-right:10px;" />
 
-### Others:
+<br>
+
+#### Others:
 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
