@@ -21,22 +21,16 @@ Currently, I'm learning spring-boot (back-end) and trying to expand my knowledge
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://discord.com/users/honor is Dead#3420" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/GustavoHenriqueBernardoo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/guushenriq_/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/gustavo-bernardo-3605a7123/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/GuusHenriq" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/GustavoHenriqueBernardoo"><img src="https://github-readme-stats.vercel.app/api?username=GustavoHenriqueBernardoo&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=64748b&text_color=ffffff&icon_color=000000&bg_color=312e81&hide_border=true&show_icons=true" alt="GustavoHenriqueBernardoo's GitHub stats" /></a><a
-                      href="http://www.github.com/GustavoHenriqueBernardoo"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoHenriqueBernardoo&stroke=ffffff&background=312e81&ring=64748b&fire=64748b&currStreakNum=ffffff&currStreakLabel=64748b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-                      href="http://www.github.com/GustavoHenriqueBernardoo"><img src="https://activity-graph.herokuapp.com/graph?username=GustavoHenriqueBernardoo&bg_color=312e81&color=ffffff&line=000000&point=ffffff&area_color=312e81&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/honor is Dead#3420" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/GustavoHenriqueBernardoo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/guushenriq_/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gustavo-bernardo-3605a7123/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/GuusHenriq" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/GustavoHenriqueBernardoo"><img src="https://github-readme-stats.vercel.app/api?username=GustavoHenriqueBernardoo&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=64748b&text_color=ffffff&icon_color=000000&bg_color=312e81&hide_border=true&show_icons=true" alt="GustavoHenriqueBernardoo's GitHub stats" /></a>
+
+<a href="http://www.github.com/GustavoHenriqueBernardoo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoHenriqueBernardoo&stroke=ffffff&background=312e81&ring=64748b&fire=64748b&currStreakNum=ffffff&currStreakLabel=64748b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/GustavoHenriqueBernardoo"><img src="https://activity-graph.herokuapp.com/graph?username=GustavoHenriqueBernardoo&bg_color=312e81&color=ffffff&line=000000&point=ffffff&area_color=312e81&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
