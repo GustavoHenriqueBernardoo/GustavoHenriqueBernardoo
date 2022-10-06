@@ -1,64 +1,42 @@
-<!--
-**GustavoHenriqueBernardoo/GustavoHenriqueBernardoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gustavo Bernardo
+========================================================================================================================================
 
-Here are some ideas to get you started:
+Web Developer
+-------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm learning spring-boot (back-end) and trying to expand my knowledge from front-end; it's sometimes great and important to step outside our comfort zone. I'm a really enthusiastic individual that is interested in how technology will advance and alter our way of life even more. We are extremely fortunate to live in such lovely times, when learning is accessible anywhere. We can surpass expectations if we have good habits and are consistent.
 
-## Hi there 👋
-
-Currently, I'm learning spring-boot (back-end) and trying to expand my knowledge from front-end; it's sometimes great and important to step outside our comfort zone. I'm a really enthusiastic individual that is interested in how technology will advance and alter our way of life even more.
-
-We are extremely fortunate to live in such lovely times, when learning is accessible anywhere. We can surpass expectations if we have good habits and are consistent.
-
-⚡ Bookworm, calisthenic, Chess.
-
-<!-- ## I'm Gustavo, and I'm glad to have you here!! -->
-
-## Connect with me:
-
-&nbsp;&nbsp;
-[<img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" height="40em" align="center" alt="Follow Gustavo on LinkedIn" title="Follow Gustavo on LinkedIn"/>](https://www.linkedin.com/in/gustavo-bernardo-3605a7123)
-&nbsp;&nbsp;
-&nbsp;&nbsp;
-[<img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" height="40em" align="center" alt="Follow Gustavo on Twitter" title="Follow Gustavo on Twitter"/>](https://twitter.com/GuusHenriq)
-&nbsp;&nbsp;
-
-## Languages and Tools:
-
-#### Front-End:
-
-<img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Bootstrap" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-<img align="left" alt="React" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-<br>
-<br>
-
-#### Back-End:
-
-<img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
+*   🌍  I'm based in São Paulo, Brazil
+*   ✉️  You can contact me at [gustavobernardo094@gmail.com](mailto:gustavobernardo094@gmail.com)
+*   🧠  I'm learning Spring, Spring-Boot, ReactJS
+*   ⚡  Bookworm, Calisthenic, Chess.### Skills 
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <img align="left" alt="Spring" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg" style="padding-right:10px;" />
-
-<br>
-<br>
-
-#### Others:
-
-<img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="40px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="40px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
-
-<!-- # <br> -->
-<!-- ![image](https://www.codewars.com/users/GustavoHenriqueBernardoo/badges/large) -->
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://discord.com/users/honor is Dead#3420" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.github.com/GustavoHenriqueBernardoo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                          
+                      <a href="http://www.instagram.com/guushenriq_/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.linkedin.com/in/gustavo-bernardo-3605a7123/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.twitter.com/GuusHenriq" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/GustavoHenriqueBernardoo"><img src="https://github-readme-stats.vercel.app/api?username=GustavoHenriqueBernardoo&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=64748b&text_color=ffffff&icon_color=000000&bg_color=312e81&hide_border=true&show_icons=true" alt="GustavoHenriqueBernardoo's GitHub stats" /></a><a
+                      href="http://www.github.com/GustavoHenriqueBernardoo"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoHenriqueBernardoo&stroke=ffffff&background=312e81&ring=64748b&fire=64748b&currStreakNum=ffffff&currStreakLabel=64748b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
+                      href="http://www.github.com/GustavoHenriqueBernardoo"><img src="https://activity-graph.herokuapp.com/graph?username=GustavoHenriqueBernardoo&bg_color=312e81&color=ffffff&line=000000&point=ffffff&area_color=312e81&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
